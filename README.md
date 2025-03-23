@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sathyanthi Aakshara</h1>
 <h3 align="center">🚀 Future Software Engineer | Seeking Internship Opportunities</h3>
-<img align="center" alt="coding" width="1000" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="center" alt="coding" width="50" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishara&label=Profile%20views&color=0e75b6&style=flat" alt="sathishara" /> </p>
 
